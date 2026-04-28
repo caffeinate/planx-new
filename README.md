@@ -32,7 +32,7 @@ planx-new is a monorepo containing our full application stack. Here's a quick su
 - [Node](https://nodejs.org/en/download) `pnpm env use --global 24.14.0`
 - [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 
-**If you're an OSL developer:**
+**If you're an OSL (Open Systems Lab) developer:**
 
 1. Clone this repository
 
